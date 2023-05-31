@@ -25,7 +25,7 @@
 <a href="https://twitter.com/aditpalsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditpalsingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adit-pal-singh-sasan-94b948211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adit-pal-singh-sasan-94b948211" height="30" width="40" /></a>
 <a href="https://instagram.com/adit__018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adit__018" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aditpalsingh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aditpalsingh02" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@aditpalsingh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditpalsingh02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
